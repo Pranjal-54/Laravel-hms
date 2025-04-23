@@ -4,7 +4,7 @@ $viewsFolder = "C:\yt\hospitalMS\resources\views"
 
 # Define a list of folders to exclude from the public folder scan (e.g., "public/storage", "public/tmp")
 $excludeFolders = @('storage', "tmp", 'chatify', 'build')
-
+#comments
 $excludeFiles = @('bg.png', "code.jpg", 'design.jpg', 'service-bg.png','livewire.js','navbar-dropdowns.css','sidebar-default.css')
 
 $viewsFileExtention = "*.blade.php"
