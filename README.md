@@ -1,14 +1,11 @@
 # Hospital Management System
-
-![Front End](FrontEnd.png)
-
 ## Front End
 
-![Front End](FrontEnd.png)
+![Front End](frontend.png)
 
 ## Back End
 
-![Back End](admin-screenshot.png)
+![Back End](backend.png)
 
 ## Database Tables
 
