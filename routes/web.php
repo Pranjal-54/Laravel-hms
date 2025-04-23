@@ -3,7 +3,7 @@
 use App\Http\Controllers\AdminController;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
-
+//commmented
 // testing gpush
 Route::get('/', function () {
     return view('index');
